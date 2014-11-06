@@ -1,4 +1,1 @@
-wnm_2014
-========
-
-WNM git project
+This is a git project of which I'm proud
